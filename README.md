@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/smb_icon.png" alt="Series Migration Bridge Logo" width="350"/>
+</div>
+
 # Series Migration Bridge
 
 A reference architecture and solution pattern for exposing internal technical frameworks through natural language using Copilot Studio, Azure-hosted FastAPI, custom connectors, and Microsoft Fabric.
