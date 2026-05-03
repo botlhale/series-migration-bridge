@@ -32,6 +32,12 @@ Although the example implementation started from a migration-oriented use case, 
 - case-processing libraries
 - analytical and research support tooling
 
+## Architecture diagram
+
+The following diagram shows the conversational entry point, backend execution path, confidence-based routing, and audit layer.
+
+![Series Migration Bridge Architecture](./assets/series_migration_bridge.png)
+
 ## Why this matters
 
 The value of this pattern is not just code generation.
