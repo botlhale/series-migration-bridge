@@ -139,11 +139,10 @@ See [Responsible AI Notes](./docs/responsible-ai.md) for more.
 ├── docs/
 │   ├── architecture-overview.md
 │   ├── deep-dive.md
-│   ├── demo-script.md
 │   └── responsible-ai.md
 └── assets/
     ├── architecture-diagram.png
-    └── demo-screenshot.png
+    └── demo-screen.png
 ```
 
 ## Learn more
